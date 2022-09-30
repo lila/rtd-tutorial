@@ -1,0 +1,12 @@
+
+- rewrite the README.md at the top level
+- complete version of html documentation that goes with the code
+- configure sphinx to process the docstrings in the code
+- figure out how to do releases and version numbers
+- re-enable the data ingestion routes
+- automate the creation of a changelog
+- create different fitbit api strings for development, staging, and prod
+   i have prod (from jackson), and development (127.0.0.1), so i need one
+   more for staging.
+- a better delete account implementation
+-
